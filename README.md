@@ -32,6 +32,6 @@
 
 **result.pdf - файл с выводами**
 
-**ДАШБОРД** можно найти по [ссылке](http://https://datalens.yandex/n2m1bfg6kssca "ссылке")
+**ДАШБОРД** можно найти по ссылке: https://datalens.yandex/n2m1bfg6kssca
 
 
